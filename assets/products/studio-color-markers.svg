@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F1E8"/><stop offset="1" stop-color="#E7E1D6"/></linearGradient></defs>
+    <rect width="480" height="520" rx="34" fill="url(#bg)"/>
+    <circle cx="62" cy="62" r="34" fill="#4C7E73" opacity=".15"/><circle cx="415" cy="92" r="48" fill="#8A4C6D" opacity=".12"/>
+    
+          <g transform="rotate(-10 240 250)">
+            <rect x="150" y="80" width="68" height="355" rx="26" fill="#4C7E73"/>
+            <rect x="262" y="80" width="68" height="355" rx="26" fill="#8A4C6D"/>
+            <rect x="150" y="92" width="68" height="52" rx="22" fill="#252C2B"/>
+            <rect x="262" y="92" width="68" height="52" rx="22" fill="#252C2B"/>
+            <path d="M166 435 L202 435 L184 470Z" fill="#303535"/>
+            <path d="M278 435 L314 435 L296 470Z" fill="#303535"/>
+          </g>
+          <text x="240" y="52" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="700" fill="#17201E">COLOR MARKERS</text>
+        
+    </svg>

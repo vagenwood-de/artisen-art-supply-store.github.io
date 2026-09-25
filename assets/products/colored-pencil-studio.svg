@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F1E8"/><stop offset="1" stop-color="#E7E1D6"/></linearGradient></defs>
+    <rect width="480" height="520" rx="34" fill="url(#bg)"/>
+    <circle cx="62" cy="62" r="34" fill="#B65D4D" opacity=".15"/><circle cx="415" cy="92" r="48" fill="#58799A" opacity=".12"/>
+    
+          <g transform="rotate(-17 240 250)">
+            <rect x="125" y="112" width="230" height="56" rx="14" fill="#F3C15D"/>
+            <rect x="125" y="182" width="230" height="56" rx="14" fill="#B65D4D"/>
+            <rect x="125" y="252" width="230" height="56" rx="14" fill="#58799A"/>
+            <rect x="125" y="322" width="230" height="56" rx="14" fill="#6A83A5"/>
+            <path d="M355 112 L405 140 L355 168Z" fill="#D8D0C0"/>
+            <path d="M355 182 L405 210 L355 238Z" fill="#D8D0C0"/>
+            <path d="M355 252 L405 280 L355 308Z" fill="#D8D0C0"/>
+            <path d="M355 322 L405 350 L355 378Z" fill="#D8D0C0"/>
+          </g>
+          <text x="240" y="460" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="700" fill="#17201E">DRAWING SET</text>
+        
+    </svg>

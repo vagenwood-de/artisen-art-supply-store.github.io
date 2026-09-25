@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F1E8"/><stop offset="1" stop-color="#E7E1D6"/></linearGradient></defs>
+    <rect width="480" height="520" rx="34" fill="url(#bg)"/>
+    <circle cx="62" cy="62" r="34" fill="#7E4B5B" opacity=".15"/><circle cx="415" cy="92" r="48" fill="#4B7C76" opacity=".12"/>
+    
+          <g transform="rotate(-16 240 245)">
+            <rect x="220" y="92" width="42" height="325" rx="21" fill="#D9B26F"/>
+            <rect x="213" y="100" width="56" height="62" rx="10" fill="#A6A9AA"/>
+            <path d="M213 100 Q241 40 269 100 L259 142 Q241 156 223 142Z" fill="#7E4B5B"/>
+            <path d="M220 405 L240 435 L260 405" fill="#7C5A3A"/>
+          </g>
+          <g transform="rotate(13 155 255)">
+            <rect x="135" y="130" width="38" height="295" rx="19" fill="#4B7C76"/>
+            <rect x="130" y="130" width="48" height="55" rx="9" fill="#A6A9AA"/>
+            <path d="M130 130 Q154 75 178 130 L170 170 Q154 183 138 170Z" fill="#D9B26F"/>
+          </g>
+          <text x="240" y="474" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="700" fill="#17201E">ARTISEN BRUSHES</text>
+        
+    </svg>

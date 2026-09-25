@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vagenwood-de.github.io/artisen-art-supply-store/sitemap.xml

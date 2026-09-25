@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Professional Art Supplies | ARTISEN</title><meta name="description" content="ARTISEN — professional art supplies, studio tools, and creative essentials."><meta name="theme-color" content="#18211f"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"></head><body>
+<header class="site-header">
+  <div class="shell nav-shell">
+    <a class="brand" href="index.html"><img src="assets/branding/logo.svg" alt="ARTISEN logo"><span>ARTISEN</span></a>
+    <nav class="site-nav" id="site-nav">
+      <a href="shop.html">Shop</a><a href="collections.html">Collections</a><a href="studio.html">Studio</a><a href="journal.html">Journal</a><a href="about.html">About</a><a href="support.html">Support</a>
+    </nav>
+    <div class="nav-actions"><button class="icon-btn" id="theme-toggle" aria-label="Toggle theme">◐</button><button class="icon-btn cart-btn" id="cart-toggle" aria-label="Open cart">Bag <span class="cart-count">0</span></button><button class="menu-btn" id="menu-toggle" aria-label="Open menu">Menu</button></div>
+  </div>
+</header>
+<div class="cart-panel" id="cart-panel"><div class="cart-head"><strong>Your studio bag</strong><button class="mini" id="cart-close">Close</button></div><div class="cart-items" id="cart-items"></div><div class="cart-foot"><div class="cart-total"><span>Total</span><span id="cart-total">$0.00</span></div><button class="button dark" id="checkout-demo" style="width:100%">Continue to checkout</button><button class="mini" id="clear-cart" style="margin-top:8px">Clear bag</button></div></div>
+
+<main>
+<section class="hero"><div class="paint-stroke"></div><div class="shell hero-content"><p class="eyebrow" style="color:#e5c78f">ART SUPPLY CO. · DENVER</p><h1>Make the work worth remembering.</h1><p class="lead">A curated collection of professional paints, brushes, drawing tools, surfaces, and studio essentials — designed around the artist, not the aisle.</p><div class="hero-actions"><a class="button light" href="shop.html">Explore the collection</a><a class="button" style="color:#fff;border-color:#ffffff66" href="studio.html">Build your studio</a></div></div></section>
+<section class="trust"><div class="shell"><span>Professional-grade materials</span><span>Curated creative collections</span><span>Studio-ready essentials</span><span>Support for every medium</span></div></section>
+<section class="section shell"><div class="section-head"><div><p class="eyebrow">SHOP BY DISCIPLINE</p><h2>Find your medium.</h2></div><p>ARTISEN organizes materials around the creative work itself — from first sketch to final finish.</p></div><div class="category-grid">
+<a class="category-card" style="--tone:#b84d46" href="shop.html?category=Painting"><span>01</span><h3>Painting</h3><p>Acrylic, oil, gouache, watercolor & mediums.</p></a>
+<a class="category-card" style="--tone:#58766d" href="shop.html?category=Brushes%20%26%20Tools"><span>02</span><h3>Brushes & Tools</h3><p>Precision brushes, knives, palettes and studio tools.</p></a>
+<a class="category-card" style="--tone:#c59b5a" href="shop.html?category=Canvas%20%26%20Surfaces"><span>03</span><h3>Canvas & Surfaces</h3><p>Linen, boards, panels and prepared surfaces.</p></a>
+<a class="category-card" style="--tone:#6c4b62" href="shop.html?category=Drawing%20%26%20Sketching"><span>04</span><h3>Drawing & Sketching</h3><p>Graphite, colored pencils and sketching essentials.</p></a>
+</div></section>
+<section class="section soft"><div class="shell"><div class="section-head"><div><p class="eyebrow">FEATURED NOW</p><h2>Studio picks.</h2></div><p>Selected essentials that make a professional workspace feel complete.</p></div><div class="product-grid" id="home-products"></div></div></section>
+<section class="section shell"><div class="split"><div class="feature-panel visual"><p class="eyebrow" style="color:#e5c78f">THE ARTISEN STANDARD</p><h2>Tools should disappear behind the creativity.</h2><p>Every collection is designed to reduce friction between the idea in your head and the work on the surface.</p><a class="button light" href="about.html">Our approach</a></div><div class="feature-panel"><p class="eyebrow">THE STUDIO EDIT</p><h2>Build a workspace that invites you back.</h2><p>From portable easels and mixing palettes to carefully selected surfaces, explore the essentials that keep the creative process moving.</p><a class="button dark" href="studio.html">Explore studio essentials</a></div></div></section>
+<section class="section dark-section"><div class="shell"><div class="newsletter"><div><p class="eyebrow" style="color:#d7b57d">ARTISEN JOURNAL</p><h2 style="font-size:clamp(2.7rem,5vw,5rem);margin:.15em 0">Ideas, techniques & studio notes.</h2><p style="color:#aeb7b2">A future-ready journal for artists exploring materials, process, color and studio practice.</p></div><form data-demo-form><input type="email" placeholder="Your email address" required><button class="button accent">Join the journal</button><div class="form-status"></div></form></div></div></section>
+</main>
+<footer class="site-footer"><div class="shell">
+  <div class="footer-grid">
+    <div><h2>ARTISEN</h2><p style="color:#aeb7b2;max-width:340px">Professional art supplies, studio tools, and creative essentials for artists who care about the process.</p></div>
+    <div><b>Shop</b><a href="shop.html">All products</a><a href="collections.html">Collections</a><a href="shop.html?category=Painting">Painting</a><a href="shop.html?category=Drawing%20%26%20Sketching">Drawing</a></div>
+    <div><b>Studio</b><a href="studio.html">Studio essentials</a><a href="journal.html">Journal</a><a href="about.html">Our story</a><a href="support.html">Support</a></div>
+    <div><b>Contact</b><a href="mailto:support@artisen.com">support@artisen.com</a><a href="tel:+13035550198">+1 (303) 555-0198</a><span style="color:#aeb7b2">Denver, CO 80202</span></div>
+  </div>
+  <div class="footer-note"><span>© 2026 ARTISEN Art Supply Co.</span><span>Built as a professional storefront concept.</span></div>
+</div></footer><div class="toast"></div>
+<script>document.addEventListener("DOMContentLoaded",()=>renderProductGrid(document.getElementById("home-products"),PRODUCTS.slice(0,8)));</script><script src="site.js"></script></body></html>

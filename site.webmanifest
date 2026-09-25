@@ -1,0 +1,15 @@
+{
+  "name": "ARTISEN Art Supply Co.",
+  "short_name": "ARTISEN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3efe7",
+  "theme_color": "#18211f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

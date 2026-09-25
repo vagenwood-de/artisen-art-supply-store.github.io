@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 180">
+<rect width="620" height="180" rx="38" fill="#141B1A"/>
+<circle cx="91" cy="90" r="61" fill="#F1E7D4" stroke="#C69A58" stroke-width="5"/>
+<path d="M55 125 L91 48 L127 125 M70 95 H112" fill="none" stroke="#1A2523" stroke-width="10" stroke-linecap="round"/>
+<path d="M78 105 C110 87 118 72 144 57" stroke="#B84D46" stroke-width="9" stroke-linecap="round"/>
+<text x="172" y="94" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#F4EEE2">ARTISEN</text>
+<text x="175" y="126" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="#D5B47D">ART SUPPLY CO.</text>
+</svg>
