@@ -5,13 +5,16 @@ A premium, responsive ecommerce-style storefront for **ARTISEN Art Supply Co.**
 ## What this version includes
 
 - Premium homepage with hero, discipline navigation, featured products, brand story, and journal signup.
-- 28 locally bundled product visuals, each assigned to its own product.
+- 58 locally bundled product visuals, each assigned to its own product.
 - Shop catalog with live search and category filtering.
 - Product detail pages driven by a centralized JavaScript product dataset.
 - Local shopping bag using browser `localStorage`.
 - Light/dark theme toggle.
 - Responsive mobile navigation.
 - Collections page.
+- Artist Guides page.
+- Studio Gallery page.
+- Expanded homepage sections for new arrivals, bestsellers, artist spotlight, and brand promise.
 - Studio page.
 - Journal page.
 - About page.
@@ -71,7 +74,7 @@ artisen-art-supply-store/
     ├── branding/
     │   └── logo.svg
     └── products/
-        └── 28 product SVGs
+        └── 58 product SVGs
 ```
 
 ## Quality goals
@@ -87,7 +90,7 @@ artisen-art-supply-store/
 
 ## Status
 
-**Project in development — V1 storefront concept.**
+**Project in development — V2 expanded storefront concept.**
 
 ## Support
 

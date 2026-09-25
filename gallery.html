@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Studio Gallery | ARTISEN</title><meta name="description" content="ARTISEN visual product gallery."><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css"></head><body><header class="site-header">
+  <div class="shell nav-shell">
+    <a class="brand" href="index.html"><img src="assets/branding/logo.svg" alt="ARTISEN logo"><span>ARTISEN</span></a>
+    <nav class="site-nav" id="site-nav">
+      <a href="shop.html">Shop</a><a href="collections.html">Collections</a><a href="studio.html">Studio</a><a href="guides.html">Guides</a><a href="gallery.html">Gallery</a><a href="journal.html">Journal</a><a href="about.html">About</a><a href="support.html">Support</a>
+    </nav>
+    <div class="nav-actions"><button class="icon-btn" id="theme-toggle" aria-label="Toggle theme">◐</button><button class="icon-btn cart-btn" id="cart-toggle" aria-label="Open cart">Bag <span class="cart-count">0</span></button><button class="menu-btn" id="menu-toggle" aria-label="Open menu">Menu</button></div>
+  </div>
+</header>
+<div class="cart-panel" id="cart-panel"><div class="cart-head"><strong>Your studio bag</strong><button class="mini" id="cart-close">Close</button></div><main><section class="page-hero shell"><p class="eyebrow">STUDIO GALLERY</p><h1>A visual shelf of creative possibilities.</h1><p class="lead">Explore the full ARTISEN image-led catalog.</p></section><section class="section shell"><div class="product-grid" id="gallery-products"></div></section></main><footer class="site-footer"><div class="shell"><div class="footer-note"><span>© 2026 ARTISEN Art Supply Co.</span><span>Create Without Limits.</span></div></div></footer><div class="toast"></div><script src="site.js"></script><script>document.addEventListener("DOMContentLoaded",()=>renderProductGrid(document.getElementById("gallery-products"),PRODUCTS));</script></body></html>
