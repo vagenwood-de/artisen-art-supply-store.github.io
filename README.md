@@ -136,3 +136,9 @@ V4 keeps the V3 visual direction while separating imagery from webpage typograph
 - Added stronger section backgrounds and spacing rhythm.
 - Improved large-heading wrapping so text does not clip horizontally.
 - Preserved the V4 clean-image approach: artwork itself contains no page copy.
+
+
+## V6 — Hero CTA Contrast Fix
+
+- Fixed the hero “Our approach” button text that was rendering white on a white button.
+- No other storefront content or layout was intentionally changed in V6.
