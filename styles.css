@@ -45,7 +45,7 @@ a{color:inherit}img{display:block;width:100%;height:100%;object-fit:cover}button
 .visual-editorial{display:grid;grid-template-columns:1.25fr .75fr;gap:18px;margin-top:34px}
 .visual-card{min-height:310px;border-radius:24px;overflow:hidden;position:relative;background:#25332f;box-shadow:0 18px 50px rgba(24,33,31,.12)}
 .visual-card img{width:100%;height:100%;min-height:310px;object-fit:cover;display:block}
-.visual-card .visual-copy{position:absolute;left:25px;bottom:22px;color:#fff;max-width:430px;text-shadow:0 2px 15px rgba(0,0,0,.35)}
+.visual-card .visual-copy{position:absolute;left:25px;bottom:24px;color:#fff;max-width:470px;text-shadow:0 2px 15px rgba(0,0,0,.42)}
 .visual-card .visual-copy h3{font-size:30px;margin:5px 0 7px}
 .visual-card .visual-copy p{margin:0;color:#eee8df}
 .painting-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:26px}

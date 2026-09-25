@@ -8,6 +8,4 @@
 <circle cx="545" cy="170" r="36" fill="#52746C" opacity=".7"/>
 <g transform="rotate(18 170 370)"><rect x="160" y="160" width="20" height="400" rx="10" fill="#5E4638"/><path d="M160 160 Q170 105 180 160Z" fill="#444"/></g>
 
-<text x="55" y="585" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#F8F3E9">DRAW / OBSERVE</text>
-<text x="55" y="620" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#E9E1D4">ARTISEN STUDIO / 2026</text>
 </svg>

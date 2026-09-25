@@ -6,6 +6,4 @@
 <circle cx="280" cy="280" r="50" fill="#B9564D"/><circle cx="365" cy="205" r="50" fill="#607E72"/><circle cx="470" cy="190" r="50" fill="#D0A15C"/><circle cx="575" cy="230" r="50" fill="#6D4D63"/><circle cx="645" cy="315" r="50" fill="#5B7380"/><circle cx="350" cy="370" r="50" fill="#7B5847"/><circle cx="470" cy="400" r="50" fill="#AAB08E"/>
 <ellipse cx="515" cy="310" rx="60" ry="48" fill="#EFE7D5"/>
 
-<text x="55" y="585" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#F8F3E9">PALETTE / PROCESS</text>
-<text x="55" y="620" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#E9E1D4">ARTISEN STUDIO / 2026</text>
 </svg>

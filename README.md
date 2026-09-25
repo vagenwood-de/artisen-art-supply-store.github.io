@@ -116,3 +116,13 @@ V3 expands the storefront with an image-led editorial layer designed to make the
 - Improved hero button contrast and readability.
 - Additional local editorial SVG artwork bundled inside the ZIP.
 - No external image dependency for the new visual layer.
+
+
+## V4 Image Cleanup
+
+V4 keeps the V3 visual direction while separating imagery from webpage typography.
+
+- Removed all embedded lettering from the new editorial artwork.
+- Headings, labels, descriptions, and calls-to-action remain HTML/CSS content.
+- Visual tiles now contain artwork only.
+- Hero/editorial cards keep their text as page overlays for better alignment and responsive behavior.
