@@ -126,3 +126,13 @@ V4 keeps the V3 visual direction while separating imagery from webpage typograph
 - Headings, labels, descriptions, and calls-to-action remain HTML/CSS content.
 - Visual tiles now contain artwork only.
 - Hero/editorial cards keep their text as page overlays for better alignment and responsive behavior.
+
+
+## V5 — Layout and Content Polish
+
+- Fixed the JavaScript syntax error that caused homepage product grids to remain blank.
+- Restored Studio Picks, New Arrivals, and Bestseller product rendering.
+- Added visual editorial strips to the previously sparse areas.
+- Added stronger section backgrounds and spacing rhythm.
+- Improved large-heading wrapping so text does not clip horizontally.
+- Preserved the V4 clean-image approach: artwork itself contains no page copy.

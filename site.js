@@ -24,9 +24,9 @@ function renderCart() {
   if(!list)return;
   if(!c.length) list.innerHTML='<p style="color:var(--muted);padding:20px 0">Your cart is ready for something creative.</p>';
   else list.innerHTML=c.map(x=>{const p=PRODUCTS.find(y=>y.id===x.id);return `<div class="cart-item"><img src="${p.image}" alt="${p.name}"><div><b>${p.name}</b><br><small>Qty ${x.qty}</small></div><button class="mini" onclick="removeFromCart(${p.id})">Remove</button></div>`}).join("");
-  const total=c.reduce((a,x)=>a+(PRODUCTS.find(y=>y.id===x.id)?.price||0)*x.qty,0);
+  const cartTotal=c.reduce((a,x)=>a+(PRODUCTS.find(y=>y.id===x.id)?.price||0)*x.qty,0);
   
-  if(total) $("#cart-total").textContent=money(total);
+  if(cartTotal) $("#cart-total").textContent=money(cartTotal);
 }
 function renderProductGrid(grid, items) {
   if(!grid)return;
