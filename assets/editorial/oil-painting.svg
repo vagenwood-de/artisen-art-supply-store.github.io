@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3B302B"/><stop offset="1" stop-color="#8A6652"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".22"/></filter></defs>
+<rect width="900" height="650" fill="url(#bg)"/>
+<circle cx="760" cy="100" r="130" fill="#617C72" opacity=".16"/><circle cx="120" cy="560" r="170" fill="#D4A15C" opacity=".10"/>
+<rect x="160" y="70" width="580" height="450" rx="8" fill="#E6D8C2" filter="url(#shadow)"/>
+<path d="M185 410 Q270 255 345 370 T510 245 T715 320 L715 505 L185 505Z" fill="#617C72"/>
+<path d="M190 390 Q300 315 385 390 T555 325 T710 365" fill="none" stroke="#C45B4F" stroke-width="70" stroke-linecap="round"/>
+<path d="M210 205 Q310 125 420 220 T660 175" fill="none" stroke="#D4A15C" stroke-width="52" stroke-linecap="round"/>
+<circle cx="500" cy="230" r="44" fill="#7A5264"/>
+
+<text x="55" y="585" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#F8F3E9">OIL / TEXTURE</text>
+<text x="55" y="620" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#E9E1D4">ARTISEN STUDIO / 2026</text>
+</svg>

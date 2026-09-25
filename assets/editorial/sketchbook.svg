@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6E665A"/><stop offset="1" stop-color="#C8BDA7"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".22"/></filter></defs>
+<rect width="900" height="650" fill="url(#bg)"/>
+<circle cx="760" cy="100" r="130" fill="#C89C58" opacity=".16"/><circle cx="120" cy="560" r="170" fill="#52746C" opacity=".10"/>
+<rect x="245" y="65" width="410" height="480" rx="16" fill="#E9DDC7" filter="url(#shadow)" transform="rotate(6 450 305)"/>
+<path d="M320 420 Q380 270 430 355 T535 205 T620 330" fill="none" stroke="#4B5554" stroke-width="8" transform="rotate(6 450 305)"/>
+<path d="M330 450 Q405 380 485 430 T600 390" fill="none" stroke="#9B5D52" stroke-width="12" transform="rotate(6 450 305)"/>
+<circle cx="545" cy="170" r="36" fill="#52746C" opacity=".7"/>
+<g transform="rotate(18 170 370)"><rect x="160" y="160" width="20" height="400" rx="10" fill="#5E4638"/><path d="M160 160 Q170 105 180 160Z" fill="#444"/></g>
+
+<text x="55" y="585" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#F8F3E9">DRAW / OBSERVE</text>
+<text x="55" y="620" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#E9E1D4">ARTISEN STUDIO / 2026</text>
+</svg>

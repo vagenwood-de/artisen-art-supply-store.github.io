@@ -102,3 +102,17 @@ Denver, CO 80202
 ## Copyright
 
 © 2026 ARTISEN Art Supply Co.
+
+
+## V3 Visual Expansion
+
+V3 expands the storefront with an image-led editorial layer designed to make the homepage feel more complete and alive.
+
+- Large visual hero artwork.
+- Studio table editorial feature.
+- Palette / color story feature.
+- Acrylic, oil, watercolor, and sketchbook visual tiles.
+- Easel/gallery visual story.
+- Improved hero button contrast and readability.
+- Additional local editorial SVG artwork bundled inside the ZIP.
+- No external image dependency for the new visual layer.

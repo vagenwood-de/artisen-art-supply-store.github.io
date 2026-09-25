@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39423F"/><stop offset="1" stop-color="#74584B"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".22"/></filter></defs>
+<rect width="900" height="650" fill="url(#bg)"/>
+<circle cx="760" cy="100" r="130" fill="#668276" opacity=".16"/><circle cx="120" cy="560" r="170" fill="#D2A05C" opacity=".10"/>
+<path d="M450 95L210 550M450 95L690 550M280 385H620" stroke="#684B39" stroke-width="25" stroke-linecap="round"/>
+<rect x="295" y="105" width="310" height="275" rx="8" fill="#EEE2CF" stroke="#684B39" stroke-width="14" filter="url(#shadow)"/>
+<path d="M315 315 C380 250 410 320 470 220 C520 135 555 255 585 180 L585 360 L315 360Z" fill="#668276"/>
+<path d="M320 300 C390 250 440 285 495 235" fill="none" stroke="#B65A50" stroke-width="35"/>
+<circle cx="520" cy="170" r="30" fill="#D2A05C"/>
+
+<text x="55" y="585" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#F8F3E9">STUDIO / DISPLAY</text>
+<text x="55" y="620" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#E9E1D4">ARTISEN STUDIO / 2026</text>
+</svg>
